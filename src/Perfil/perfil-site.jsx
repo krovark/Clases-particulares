@@ -11,7 +11,6 @@ const userProfile = () => {
 
         </div>
 
-
 );
 }
  
